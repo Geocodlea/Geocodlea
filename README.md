@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Geocodlea
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Full Stack Javascript
 - 💞️ I’m looking to collaborate on all kind of web projects
 - 📫 How to reach me geocodlea@yahoo.com
 
