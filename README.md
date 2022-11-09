@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Geocodlea
 - 👀 I have experience in: Javascript, PHP, NodeJS, MySQL, HTML, CSS
-- 🌱 I’m currently learning Full Stack Javascript
+- 🌱 I’m currently learning Full Stack Javascript: ExpressJS, MongoDB, React
 - 💞️ I’m looking to collaborate on all kind of web projects
 - 📫 How to reach me geocodlea@yahoo.com
 
