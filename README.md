@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @Geocodlea
-- 👀 I have experience in: Javascript, PHP, NodeJS, MySQL, HTML, CSS
-- 🌱 I’m currently learning Full Stack Javascript: ExpressJS, MongoDB, React
-- 💞️ I’m looking to collaborate on all kind of web projects
-- 📫 How to reach me geocodlea@yahoo.com
+# Full Stack Web Developer
+> Hi, I’m @Geocodlea, i am highly motivated, strong problem-solver and excellent communication skills, with knowledge in: Javascript, PHP, MySQL, HTML, CSS, Node.JS, Express.JS, Next.JS, MongoDB, Bootstrap, JQuery, and React.
+
+## Experience
+> Created a fullstack website (www.agames.ro) using Javascript, PHP, MySQL, HTML, CSS, JQuery and Bootstrap
+
+> Utilized MySQL as a database management system and implemented responsive design using Bootstrap
+
+> Developed various small projects using Javascript, HTML, CSS and JQuery
+
+> Demonstrated strong problem-solving skills and the ability to work independently
+
+## Contact
+>  email: geocodlea@yahoo.com
+
+>  linkedIn: https://www.linkedin.com/in/george-anton-b69716114/
 
 <!---
 Geocodlea/Geocodlea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
