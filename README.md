@@ -1,18 +1,18 @@
-# Full Stack Web Developer
-> Hi, I’m @Geocodlea, i am highly motivated, strong problem-solver and excellent communication skills, with knowledge in: Javascript, PHP, MySQL, HTML, CSS, Node.JS, Express.JS, Next.JS, MongoDB, Bootstrap, JQuery, and React.
+# Fullstack Web Developer
+> Hi, I’m @Geocodlea and my skills include Javascript, Node, Next, Express, React, MongoDB, PHP, MySQL, HTML, CSS, Bootstrap, JQuery.
+>
+> I am excited to bring my technical expertise to new web development opportunities.
 
 ## Experience
-> Created a fullstack website (www.agames.ro) using Javascript, PHP, MySQL, HTML, CSS, JQuery and Bootstrap
-
-> Utilized MySQL as a database management system and implemented responsive design using Bootstrap
-
-> Developed various small projects using Javascript, HTML, CSS and JQuery
-
-> Demonstrated strong problem-solving skills and the ability to work independently
+> Created a fullstack web application (www.agames.ro) using Javascript, PHP, MySQL, HTML, CSS, JQuery and Bootstrap
+>
+> Utilized MySQL and MongoDB as database management systems and implemented responsive design using Bootstrap and Chakra UI
+>
+> Developed various small projects using Javascript, HTML and CSS
 
 ## Contact
 >  email: geocodlea@yahoo.com
-
+>
 >  linkedIn: https://www.linkedin.com/in/anton-george/
 
 <!---
