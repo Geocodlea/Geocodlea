@@ -13,7 +13,7 @@
 ## Contact
 >  email: geocodlea@yahoo.com
 
->  linkedIn: https://www.linkedin.com/in/george-anton-b69716114/
+>  linkedIn: https://www.linkedin.com/in/anton-george/
 
 <!---
 Geocodlea/Geocodlea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
